@@ -1,1 +1,1 @@
-number = "+919992793448"
+number = "Add the number whose location you want to retrieve with the country code"
